@@ -7,7 +7,7 @@ This tutorial covers testing the IP address on a local machine, checking the IP 
 
 <h2>Environments and Technologies Used</h2>
 
-- **Microsoft Azure (Virtual Machines/Compute)**
+- **Microsoft Azure (Virtual Machines/Computer)**
 - **Remote Desktop (RDP)**
 - **ProtonVPN (Free Plan)**
 - **Browser (for testing IP location)**
